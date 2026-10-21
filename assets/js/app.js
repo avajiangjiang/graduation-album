@@ -171,7 +171,6 @@
     `电话：${esc(S.brand.phone)}`,
     esc(S.brand.wechat)
   ].map((x) => `<span>${x}</span>`).join('');
-  $('ctaPhone').href = 'tel:' + S.brand.phone.replace(/[^0-9]/g, '');
 
   /* ---------------- 滚动效果 ---------------- */
   const nav = $('nav'), fab = $('fab');
