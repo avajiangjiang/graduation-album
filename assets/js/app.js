@@ -166,11 +166,6 @@
   /* ---------------- 页脚 & 电话 ---------------- */
   $('fBrand').textContent = S.brand.name;
   $('fSlogan').textContent = S.brand.slogan;
-  $('fContact').innerHTML = [
-    `联系人：${esc(S.brand.person)}`,
-    `电话：${esc(S.brand.phone)}`,
-    esc(S.brand.wechat)
-  ].map((x) => `<span>${x}</span>`).join('');
 
   /* ---------------- 滚动效果 ---------------- */
   const nav = $('nav'), fab = $('fab');
