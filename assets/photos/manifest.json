@@ -1,0 +1,444 @@
+{
+ "primary": {
+  "label": "小学",
+  "count": 14,
+  "items": [
+   {
+    "file": "小学-3J3A2029.jpg",
+    "name": "3J3A2029.jpg",
+    "tw": 700,
+    "th": 466,
+    "tw_ok": 700,
+    "ratio": 0.6657
+   },
+   {
+    "file": "小学-3J3A2086.jpg",
+    "name": "3J3A2086.jpg",
+    "tw": 700,
+    "th": 466,
+    "tw_ok": 700,
+    "ratio": 0.6657
+   },
+   {
+    "file": "小学-3J3A2353.jpg",
+    "name": "3J3A2353.jpg",
+    "tw": 700,
+    "th": 466,
+    "tw_ok": 700,
+    "ratio": 0.6657
+   },
+   {
+    "file": "小学-3J3A2362.jpg",
+    "name": "3J3A2362.jpg",
+    "tw": 700,
+    "th": 466,
+    "tw_ok": 700,
+    "ratio": 0.6657
+   },
+   {
+    "file": "小学-4H6A0572.jpg",
+    "name": "4H6A0572.jpg",
+    "tw": 466,
+    "th": 700,
+    "tw_ok": 466,
+    "ratio": 1.5021
+   },
+   {
+    "file": "小学-7U8A4321.jpg",
+    "name": "7U8A4321.jpg",
+    "tw": 700,
+    "th": 466,
+    "tw_ok": 700,
+    "ratio": 0.6657
+   },
+   {
+    "file": "小学-7U8A4356.jpg",
+    "name": "7U8A4356.jpg",
+    "tw": 700,
+    "th": 466,
+    "tw_ok": 700,
+    "ratio": 0.6657
+   },
+   {
+    "file": "小学-7U8A4847.jpg",
+    "name": "7U8A4847.jpg",
+    "tw": 700,
+    "th": 466,
+    "tw_ok": 700,
+    "ratio": 0.6657
+   },
+   {
+    "file": "小学-DSC09895.jpg",
+    "name": "DSC09895.jpg",
+    "tw": 700,
+    "th": 466,
+    "tw_ok": 700,
+    "ratio": 0.6657
+   },
+   {
+    "file": "小学-NX_02292.jpg",
+    "name": "NX_02292.jpg",
+    "tw": 700,
+    "th": 466,
+    "tw_ok": 700,
+    "ratio": 0.6657
+   },
+   {
+    "file": "小学-NX_02394.jpg",
+    "name": "NX_02394.jpg",
+    "tw": 466,
+    "th": 700,
+    "tw_ok": 466,
+    "ratio": 1.5021
+   },
+   {
+    "file": "小学-NX_02512.jpg",
+    "name": "NX_02512.jpg",
+    "tw": 700,
+    "th": 466,
+    "tw_ok": 700,
+    "ratio": 0.6657
+   },
+   {
+    "file": "小学-NX_02521.jpg",
+    "name": "NX_02521.jpg",
+    "tw": 700,
+    "th": 466,
+    "tw_ok": 700,
+    "ratio": 0.6657
+   },
+   {
+    "file": "小学-NX_02569.jpg",
+    "name": "NX_02569.jpg",
+    "tw": 700,
+    "th": 466,
+    "tw_ok": 700,
+    "ratio": 0.6657
+   }
+  ]
+ },
+ "junior": {
+  "label": "初中",
+  "count": 24,
+  "items": [
+   {
+    "file": "初中-192A7960.jpg",
+    "name": "192A7960.jpg",
+    "tw": 700,
+    "th": 466,
+    "tw_ok": 700,
+    "ratio": 0.6657
+   },
+   {
+    "file": "初中-192A7997.jpg",
+    "name": "192A7997.jpg",
+    "tw": 700,
+    "th": 466,
+    "tw_ok": 700,
+    "ratio": 0.6657
+   },
+   {
+    "file": "初中-2T4A0466.jpg",
+    "name": "2T4A0466.jpg",
+    "tw": 700,
+    "th": 478,
+    "tw_ok": 700,
+    "ratio": 0.6829
+   },
+   {
+    "file": "初中-2T4A0482.jpg",
+    "name": "2T4A0482.jpg",
+    "tw": 700,
+    "th": 482,
+    "tw_ok": 700,
+    "ratio": 0.6886
+   },
+   {
+    "file": "初中-2T4A0530.jpg",
+    "name": "2T4A0530.jpg",
+    "tw": 700,
+    "th": 466,
+    "tw_ok": 700,
+    "ratio": 0.6657
+   },
+   {
+    "file": "初中-DJI_0070.jpg",
+    "name": "DJI_0070.jpg",
+    "tw": 700,
+    "th": 482,
+    "tw_ok": 700,
+    "ratio": 0.6886
+   },
+   {
+    "file": "初中-DSC03998.jpg",
+    "name": "DSC03998.jpg",
+    "tw": 700,
+    "th": 525,
+    "tw_ok": 700,
+    "ratio": 0.75
+   },
+   {
+    "file": "初中-DSC04118.jpg",
+    "name": "DSC04118.jpg",
+    "tw": 700,
+    "th": 466,
+    "tw_ok": 700,
+    "ratio": 0.6657
+   },
+   {
+    "file": "初中-DSC05409.jpg",
+    "name": "DSC05409.jpg",
+    "tw": 700,
+    "th": 466,
+    "tw_ok": 700,
+    "ratio": 0.6657
+   },
+   {
+    "file": "初中-DSC05443.jpg",
+    "name": "DSC05443.jpg",
+    "tw": 700,
+    "th": 466,
+    "tw_ok": 700,
+    "ratio": 0.6657
+   },
+   {
+    "file": "初中-DSC05576.jpg",
+    "name": "DSC05576.jpg",
+    "tw": 466,
+    "th": 700,
+    "tw_ok": 466,
+    "ratio": 1.5021
+   },
+   {
+    "file": "初中-EV9A7489.jpg",
+    "name": "EV9A7489.jpg",
+    "tw": 700,
+    "th": 466,
+    "tw_ok": 700,
+    "ratio": 0.6657
+   },
+   {
+    "file": "初中-NX_03718.jpg",
+    "name": "NX_03718.jpg",
+    "tw": 700,
+    "th": 466,
+    "tw_ok": 700,
+    "ratio": 0.6657
+   },
+   {
+    "file": "初中-NX_03741.jpg",
+    "name": "NX_03741.jpg",
+    "tw": 700,
+    "th": 466,
+    "tw_ok": 700,
+    "ratio": 0.6657
+   },
+   {
+    "file": "初中-NX_05880.jpg",
+    "name": "NX_05880.jpg",
+    "tw": 700,
+    "th": 466,
+    "tw_ok": 700,
+    "ratio": 0.6657
+   },
+   {
+    "file": "初中-NX_05898.jpg",
+    "name": "NX_05898.jpg",
+    "tw": 700,
+    "th": 466,
+    "tw_ok": 700,
+    "ratio": 0.6657
+   },
+   {
+    "file": "初中-NX_05904.jpg",
+    "name": "NX_05904.jpg",
+    "tw": 700,
+    "th": 466,
+    "tw_ok": 700,
+    "ratio": 0.6657
+   },
+   {
+    "file": "初中-NX_05945.jpg",
+    "name": "NX_05945.jpg",
+    "tw": 700,
+    "th": 466,
+    "tw_ok": 700,
+    "ratio": 0.6657
+   },
+   {
+    "file": "初中-_DSC7432.jpg",
+    "name": "_DSC7432.jpg",
+    "tw": 700,
+    "th": 466,
+    "tw_ok": 700,
+    "ratio": 0.6657
+   },
+   {
+    "file": "初中-_DSC7456.jpg",
+    "name": "_DSC7456.jpg",
+    "tw": 700,
+    "th": 466,
+    "tw_ok": 700,
+    "ratio": 0.6657
+   },
+   {
+    "file": "初中-_DSC7663.jpg",
+    "name": "_DSC7663.jpg",
+    "tw": 700,
+    "th": 466,
+    "tw_ok": 700,
+    "ratio": 0.6657
+   },
+   {
+    "file": "初中-_DSC7672.jpg",
+    "name": "_DSC7672.jpg",
+    "tw": 700,
+    "th": 466,
+    "tw_ok": 700,
+    "ratio": 0.6657
+   },
+   {
+    "file": "初中-_JL_5142.jpg",
+    "name": "_JL_5142.jpg",
+    "tw": 700,
+    "th": 466,
+    "tw_ok": 700,
+    "ratio": 0.6657
+   },
+   {
+    "file": "初中-_JL_5175.jpg",
+    "name": "_JL_5175.jpg",
+    "tw": 466,
+    "th": 700,
+    "tw_ok": 466,
+    "ratio": 1.5021
+   }
+  ]
+ },
+ "senior": {
+  "label": "高中",
+  "count": 15,
+  "items": [
+   {
+    "file": "高中-0A7A5727.jpg",
+    "name": "0A7A5727.jpg",
+    "tw": 700,
+    "th": 466,
+    "tw_ok": 700,
+    "ratio": 0.6657
+   },
+   {
+    "file": "高中-1U8A0632.jpg",
+    "name": "1U8A0632.jpg",
+    "tw": 700,
+    "th": 466,
+    "tw_ok": 700,
+    "ratio": 0.6657
+   },
+   {
+    "file": "高中-1U8A0649.jpg",
+    "name": "1U8A0649.jpg",
+    "tw": 700,
+    "th": 466,
+    "tw_ok": 700,
+    "ratio": 0.6657
+   },
+   {
+    "file": "高中-1X4A6525.jpg",
+    "name": "1X4A6525.jpg",
+    "tw": 700,
+    "th": 466,
+    "tw_ok": 700,
+    "ratio": 0.6657
+   },
+   {
+    "file": "高中-2U2A8702.jpg",
+    "name": "2U2A8702.jpg",
+    "tw": 700,
+    "th": 467,
+    "tw_ok": 700,
+    "ratio": 0.6671
+   },
+   {
+    "file": "高中-2U2A8748.jpg",
+    "name": "2U2A8748.jpg",
+    "tw": 700,
+    "th": 467,
+    "tw_ok": 700,
+    "ratio": 0.6671
+   },
+   {
+    "file": "高中-3S5A8844.jpg",
+    "name": "3S5A8844.jpg",
+    "tw": 466,
+    "th": 700,
+    "tw_ok": 466,
+    "ratio": 1.5021
+   },
+   {
+    "file": "高中-6531722614575_.pic_hd.jpg",
+    "name": "6531722614575_.pic_hd.jpg",
+    "tw": 700,
+    "th": 466,
+    "tw_ok": 700,
+    "ratio": 0.6657
+   },
+   {
+    "file": "高中-6d05286f9be4dd2ef6da2b40bcab96a2.jpg",
+    "name": "6d05286f9be4dd2ef6da2b40bcab96a2.jpg",
+    "tw": 700,
+    "th": 466,
+    "tw_ok": 700,
+    "ratio": 0.6657
+   },
+   {
+    "file": "高中-DSC05971.jpg",
+    "name": "DSC05971.jpg",
+    "tw": 700,
+    "th": 466,
+    "tw_ok": 700,
+    "ratio": 0.6657
+   },
+   {
+    "file": "高中-DSC_0116.jpg",
+    "name": "DSC_0116.jpg",
+    "tw": 700,
+    "th": 466,
+    "tw_ok": 700,
+    "ratio": 0.6657
+   },
+   {
+    "file": "高中-DSC_0193.jpg",
+    "name": "DSC_0193.jpg",
+    "tw": 700,
+    "th": 466,
+    "tw_ok": 700,
+    "ratio": 0.6657
+   },
+   {
+    "file": "高中-KKKK5323.jpg",
+    "name": "KKKK5323.jpg",
+    "tw": 700,
+    "th": 466,
+    "tw_ok": 700,
+    "ratio": 0.6657
+   },
+   {
+    "file": "高中-d53dfdfda331b6c6d3a888b1d96722dd.jpg",
+    "name": "d53dfdfda331b6c6d3a888b1d96722dd.jpg",
+    "tw": 700,
+    "th": 466,
+    "tw_ok": 700,
+    "ratio": 0.6657
+   },
+   {
+    "file": "高中-mmexport1743391355945.jpg",
+    "name": "mmexport1743391355945.jpg",
+    "tw": 700,
+    "th": 466,
+    "tw_ok": 700,
+    "ratio": 0.6657
+   }
+  ]
+ }
+}
